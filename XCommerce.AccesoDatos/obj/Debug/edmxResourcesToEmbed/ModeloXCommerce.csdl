@@ -1,0 +1,1113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModeloXCommerce" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModeloXCommerceContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Personas" EntityType="ModeloXCommerce.Persona" />
+    <EntitySet Name="Direcciones" EntityType="ModeloXCommerce.Direccion" />
+    <EntitySet Name="Localidades" EntityType="ModeloXCommerce.Localidad" />
+    <EntitySet Name="Provincias" EntityType="ModeloXCommerce.Provincia" />
+    <AssociationSet Name="ProvinciaLocalidad" Association="ModeloXCommerce.ProvinciaLocalidad">
+      <End Role="Provincia" EntitySet="Provincias" />
+      <End Role="Localidad" EntitySet="Localidades" />
+    </AssociationSet>
+    <AssociationSet Name="LocalidadDireccion" Association="ModeloXCommerce.LocalidadDireccion">
+      <End Role="Localidad" EntitySet="Localidades" />
+      <End Role="Direccion" EntitySet="Direcciones" />
+    </AssociationSet>
+    <AssociationSet Name="PersonaDireccion" Association="ModeloXCommerce.PersonaDireccion">
+      <End Role="Persona" EntitySet="Personas" />
+      <End Role="Direccion" EntitySet="Direcciones" />
+    </AssociationSet>
+    <EntitySet Name="Usuarios" EntityType="ModeloXCommerce.Usuario" />
+    <AssociationSet Name="PersonaUsuario" Association="ModeloXCommerce.PersonaUsuario">
+      <End Role="Persona" EntitySet="Personas" />
+      <End Role="Usuario" EntitySet="Usuarios" />
+    </AssociationSet>
+    <EntitySet Name="Marcas" EntityType="ModeloXCommerce.Marca" />
+    <EntitySet Name="Rubros" EntityType="ModeloXCommerce.Rubro" />
+    <EntitySet Name="Articulos" EntityType="ModeloXCommerce.Articulo" />
+    <AssociationSet Name="MarcaArticulo" Association="ModeloXCommerce.MarcaArticulo">
+      <End Role="Marca" EntitySet="Marcas" />
+      <End Role="Articulo" EntitySet="Articulos" />
+    </AssociationSet>
+    <AssociationSet Name="RubroArticulo" Association="ModeloXCommerce.RubroArticulo">
+      <End Role="Rubro" EntitySet="Rubros" />
+      <End Role="Articulo" EntitySet="Articulos" />
+    </AssociationSet>
+    <EntitySet Name="MotivosBajas" EntityType="ModeloXCommerce.MotivoBaja" />
+    <EntitySet Name="BajaArticulos" EntityType="ModeloXCommerce.BajaArticulo" />
+    <AssociationSet Name="MotivoBajaBajaArticulo" Association="ModeloXCommerce.MotivoBajaBajaArticulo">
+      <End Role="MotivoBaja" EntitySet="MotivosBajas" />
+      <End Role="BajaArticulo" EntitySet="BajaArticulos" />
+    </AssociationSet>
+    <AssociationSet Name="ArticuloBajaArticulo" Association="ModeloXCommerce.ArticuloBajaArticulo">
+      <End Role="Articulo" EntitySet="Articulos" />
+      <End Role="BajaArticulo" EntitySet="BajaArticulos" />
+    </AssociationSet>
+    <EntitySet Name="Cajas" EntityType="ModeloXCommerce.Caja" />
+    <EntitySet Name="DetalleCajas" EntityType="ModeloXCommerce.DetalleCaja" />
+    <AssociationSet Name="UsuarioCaja" Association="ModeloXCommerce.UsuarioCaja">
+      <End Role="Usuario" EntitySet="Usuarios" />
+      <End Role="Caja" EntitySet="Cajas" />
+    </AssociationSet>
+    <AssociationSet Name="UsuarioCaja1" Association="ModeloXCommerce.UsuarioCaja1">
+      <End Role="Usuario" EntitySet="Usuarios" />
+      <End Role="Caja" EntitySet="Cajas" />
+    </AssociationSet>
+    <AssociationSet Name="CajaDetalleCaja" Association="ModeloXCommerce.CajaDetalleCaja">
+      <End Role="Caja" EntitySet="Cajas" />
+      <End Role="DetalleCaja" EntitySet="DetalleCajas" />
+    </AssociationSet>
+    <EntitySet Name="ListaPrecios" EntityType="ModeloXCommerce.ListaPrecio" />
+    <EntitySet Name="Precios" EntityType="ModeloXCommerce.Precio" />
+    <AssociationSet Name="ListaPrecioPrecio" Association="ModeloXCommerce.ListaPrecioPrecio">
+      <End Role="ListaPrecio" EntitySet="ListaPrecios" />
+      <End Role="Precio" EntitySet="Precios" />
+    </AssociationSet>
+    <AssociationSet Name="ArticuloPrecio" Association="ModeloXCommerce.ArticuloPrecio">
+      <End Role="Articulo" EntitySet="Articulos" />
+      <End Role="Precio" EntitySet="Precios" />
+    </AssociationSet>
+    <EntitySet Name="Empresas" EntityType="ModeloXCommerce.Empresa" />
+    <EntitySet Name="CondicionIvas" EntityType="ModeloXCommerce.CondicionIva" />
+    <AssociationSet Name="EmpresaDireccion" Association="ModeloXCommerce.EmpresaDireccion">
+      <End Role="Empresa" EntitySet="Empresas" />
+      <End Role="Direccion" EntitySet="Direcciones" />
+    </AssociationSet>
+    <EntitySet Name="Salones" EntityType="ModeloXCommerce.Salon" />
+    <EntitySet Name="Mesas" EntityType="ModeloXCommerce.Mesa" />
+    <AssociationSet Name="SalonMesa" Association="ModeloXCommerce.SalonMesa">
+      <End Role="Salon" EntitySet="Salones" />
+      <End Role="Mesa" EntitySet="Mesas" />
+    </AssociationSet>
+    <EntitySet Name="Reservas" EntityType="ModeloXCommerce.Reserva" />
+    <AssociationSet Name="MesaReserva" Association="ModeloXCommerce.MesaReserva">
+      <End Role="Mesa" EntitySet="Mesas" />
+      <End Role="Reserva" EntitySet="Reservas" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteReserva" Association="ModeloXCommerce.ClienteReserva">
+      <End Role="Cliente" EntitySet="Personas" />
+      <End Role="Reserva" EntitySet="Reservas" />
+    </AssociationSet>
+    <AssociationSet Name="UsuarioReserva" Association="ModeloXCommerce.UsuarioReserva">
+      <End Role="Usuario" EntitySet="Usuarios" />
+      <End Role="Reserva" EntitySet="Reservas" />
+    </AssociationSet>
+    <EntitySet Name="Comprobantes" EntityType="ModeloXCommerce.Comprobante" />
+    <AssociationSet Name="UsuarioComprobante" Association="ModeloXCommerce.UsuarioComprobante">
+      <End Role="Usuario" EntitySet="Usuarios" />
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteComprobante" Association="ModeloXCommerce.ClienteComprobante">
+      <End Role="Cliente" EntitySet="Personas" />
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+    </AssociationSet>
+    <EntitySet Name="DetalleComprobantes" EntityType="ModeloXCommerce.DetalleComprobante" />
+    <AssociationSet Name="ComprobanteDetalleComprobante" Association="ModeloXCommerce.ComprobanteDetalleComprobante">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="DetalleComprobante" EntitySet="DetalleComprobantes" />
+    </AssociationSet>
+    <AssociationSet Name="ArticuloDetalleComprobante" Association="ModeloXCommerce.ArticuloDetalleComprobante">
+      <End Role="Articulo" EntitySet="Articulos" />
+      <End Role="DetalleComprobante" EntitySet="DetalleComprobantes" />
+    </AssociationSet>
+    <EntitySet Name="Movimientos" EntityType="ModeloXCommerce.Movimiento" />
+    <AssociationSet Name="ComprobanteMovimiento" Association="ModeloXCommerce.ComprobanteMovimiento">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="Movimiento" EntitySet="Movimientos" />
+    </AssociationSet>
+    <AssociationSet Name="UsuarioMovimiento" Association="ModeloXCommerce.UsuarioMovimiento">
+      <End EntitySet="Usuarios" Role="Usuario" />
+      <End EntitySet="Movimientos" Role="Movimiento" />
+    </AssociationSet>
+    <EntitySet Name="FormasPagos" EntityType="ModeloXCommerce.FormaPago" />
+    <AssociationSet Name="ComprobanteFormaPago" Association="ModeloXCommerce.ComprobanteFormaPago">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="FormaPago" EntitySet="FormasPagos" />
+    </AssociationSet>
+    <EntitySet Name="Bancos" EntityType="ModeloXCommerce.Banco" />
+    <AssociationSet Name="BancoCheque" Association="ModeloXCommerce.BancoCheque">
+      <End Role="Banco" EntitySet="Bancos" />
+      <End Role="Cheque" EntitySet="FormasPagos" />
+    </AssociationSet>
+    <AssociationSet Name="MesaComprobanteSalon" Association="ModeloXCommerce.MesaComprobanteSalon">
+      <End Role="Mesa" EntitySet="Mesas" />
+      <End Role="ComprobanteSalon" EntitySet="Comprobantes" />
+    </AssociationSet>
+    <AssociationSet Name="EmpleadoComprobanteSalon" Association="ModeloXCommerce.EmpleadoComprobanteSalon">
+      <End Role="Empleado" EntitySet="Personas" />
+      <End Role="ComprobanteSalon" EntitySet="Comprobantes" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteFormaPagoCtaCte" Association="ModeloXCommerce.ClienteFormaPagoCtaCte">
+      <End Role="Cliente" EntitySet="Personas" />
+      <End Role="FormaPagoCtaCte" EntitySet="FormasPagos" />
+    </AssociationSet>
+    <EntitySet Name="TarjetaSet" EntityType="ModeloXCommerce.Tarjeta" />
+    <EntitySet Name="PlanesTarjetas" EntityType="ModeloXCommerce.PlanTarjeta" />
+    <AssociationSet Name="TarjetaPlanTarjeta" Association="ModeloXCommerce.TarjetaPlanTarjeta">
+      <End Role="Tarjeta" EntitySet="TarjetaSet" />
+      <End Role="PlanTarjeta" EntitySet="PlanesTarjetas" />
+    </AssociationSet>
+    <AssociationSet Name="PlanTarjetaFormaPagoTarjeta" Association="ModeloXCommerce.PlanTarjetaFormaPagoTarjeta">
+      <End Role="PlanTarjeta" EntitySet="PlanesTarjetas" />
+      <End Role="FormaPagoTarjeta" EntitySet="FormasPagos" />
+    </AssociationSet>
+    <EntitySet Name="Proveedores" EntityType="ModeloXCommerce.Proveedor" />
+    <AssociationSet Name="ListaPrecioSalon" Association="ModeloXCommerce.ListaPrecioSalon">
+      <End Role="ListaPrecio" EntitySet="ListaPrecios" />
+      <End Role="Salon" EntitySet="Salones" />
+    </AssociationSet>
+    <AssociationSet Name="CondicionIvaEmpresa" Association="ModeloXCommerce.CondicionIvaEmpresa">
+      <End Role="CondicionIva" EntitySet="CondicionIvas" />
+      <End Role="Empresa" EntitySet="Empresas" />
+    </AssociationSet>
+    <EntitySet Name="MotivoReservas" EntityType="ModeloXCommerce.MotivoReserva" />
+    <AssociationSet Name="MotivoReservaReserva" Association="ModeloXCommerce.MotivoReservaReserva">
+      <End Role="MotivoReserva" EntitySet="MotivoReservas" />
+      <End Role="Reserva" EntitySet="Reservas" />
+    </AssociationSet>
+    <EntitySet Name="TipoEmpleados" EntityType="ModeloXCommerce.TipoEmpleado" />
+    <AssociationSet Name="TipoEmpleadoEmpleado" Association="ModeloXCommerce.TipoEmpleadoEmpleado">
+      <End Role="TipoEmpleado" EntitySet="TipoEmpleados" />
+      <End Role="Empleado" EntitySet="Personas" />
+    </AssociationSet>
+    <AssociationSet Name="CajaMovimiento" Association="ModeloXCommerce.CajaMovimiento">
+      <End Role="Caja" EntitySet="Cajas" />
+      <End Role="Movimiento" EntitySet="Movimientos" />
+    </AssociationSet>
+    <AssociationSet Name="CondicionIvaProveedor" Association="ModeloXCommerce.CondicionIvaProveedor">
+      <End Role="CondicionIva" EntitySet="CondicionIvas" />
+      <End Role="Proveedor" EntitySet="Proveedores" />
+    </AssociationSet>
+    <AssociationSet Name="ProveedorComprobanteCompra" Association="ModeloXCommerce.ProveedorComprobanteCompra">
+      <End Role="Proveedor" EntitySet="Proveedores" />
+      <End Role="ComprobanteCompra" EntitySet="Comprobantes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Apellido" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Dni" Type="String" Nullable="false" MaxLength="9" />
+    <Property Name="Telefono" Type="String" Nullable="false" MaxLength="25" />
+    <Property Name="Celular" Type="String" Nullable="false" MaxLength="25" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Cuil" Type="String" Nullable="false" MaxLength="11" />
+    <NavigationProperty Name="Direccion" Relationship="ModeloXCommerce.PersonaDireccion" FromRole="Persona" ToRole="Direccion" />
+    <Property Name="FechaNacimiento" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Usuarios" Relationship="ModeloXCommerce.PersonaUsuario" FromRole="Persona" ToRole="Usuario" />
+    <Property Name="Foto" Type="Binary" Nullable="true" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Direccion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Calle" Type="String" Nullable="false" MaxLength="400" />
+    <Property Name="Numero" Type="Int32" Nullable="false" />
+    <Property Name="Piso" Type="String" Nullable="false" MaxLength="2" />
+    <Property Name="Dpto" Type="String" Nullable="false" MaxLength="2" />
+    <Property Name="Casa" Type="String" Nullable="false" MaxLength="5" />
+    <Property Name="Lote" Type="String" Nullable="false" MaxLength="5" />
+    <Property Name="Mza" Type="String" Nullable="false" MaxLength="5" />
+    <Property Name="Barrio" Type="String" Nullable="false" MaxLength="250" />
+    <NavigationProperty Name="Localidad" Relationship="ModeloXCommerce.LocalidadDireccion" FromRole="Direccion" ToRole="Localidad" />
+    <Property Name="LocalidadId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Persona" Relationship="ModeloXCommerce.PersonaDireccion" FromRole="Direccion" ToRole="Persona" />
+    <NavigationProperty Name="Empresa" Relationship="ModeloXCommerce.EmpresaDireccion" FromRole="Direccion" ToRole="Empresa" />
+  </EntityType>
+  <EntityType Name="Localidad">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <NavigationProperty Name="Provincia" Relationship="ModeloXCommerce.ProvinciaLocalidad" FromRole="Localidad" ToRole="Provincia" />
+    <Property Name="ProvinciaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Direcciones" Relationship="ModeloXCommerce.LocalidadDireccion" FromRole="Localidad" ToRole="Direccion" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Provincia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <NavigationProperty Name="Localidades" Relationship="ModeloXCommerce.ProvinciaLocalidad" FromRole="Provincia" ToRole="Localidad" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="ProvinciaLocalidad">
+    <End Type="ModeloXCommerce.Provincia" Role="Provincia" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Localidad" Role="Localidad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Provincia">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Localidad">
+        <PropertyRef Name="ProvinciaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="LocalidadDireccion">
+    <End Type="ModeloXCommerce.Localidad" Role="Localidad" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Direccion" Role="Direccion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Localidad">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Direccion">
+        <PropertyRef Name="LocalidadId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PersonaDireccion">
+    <End Type="ModeloXCommerce.Persona" Role="Persona" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Direccion" Role="Direccion" Multiplicity="1" />
+  </Association>
+  <EntityType Name="Empleado" BaseType="ModeloXCommerce.Persona">
+    <Property Name="Legajo" Type="Int32" Nullable="false" />
+    <Property Name="FechaIngreso" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="ComprobantesSalones" Relationship="ModeloXCommerce.EmpleadoComprobanteSalon" FromRole="Empleado" ToRole="ComprobanteSalon" />
+    <NavigationProperty Name="TipoEmpleado" Relationship="ModeloXCommerce.TipoEmpleadoEmpleado" FromRole="Empleado" ToRole="TipoEmpleado" />
+    <Property Name="TipoEmpleadoId1" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="100" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="400" />
+    <Property Name="EstaBloqueado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Persona" Relationship="ModeloXCommerce.PersonaUsuario" FromRole="Usuario" ToRole="Persona" />
+    <Property Name="PersonaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="CajaApertura" Relationship="ModeloXCommerce.UsuarioCaja" FromRole="Usuario" ToRole="Caja" />
+    <NavigationProperty Name="CajaCierre" Relationship="ModeloXCommerce.UsuarioCaja1" FromRole="Usuario" ToRole="Caja" />
+    <NavigationProperty Name="Reservas" Relationship="ModeloXCommerce.UsuarioReserva" FromRole="Usuario" ToRole="Reserva" />
+    <NavigationProperty Name="Comprobantes" Relationship="ModeloXCommerce.UsuarioComprobante" FromRole="Usuario" ToRole="Comprobante" />
+    <NavigationProperty Name="Movimientos" Relationship="ModeloXCommerce.UsuarioMovimiento" FromRole="Usuario" ToRole="Movimiento" />
+  </EntityType>
+  <Association Name="PersonaUsuario">
+    <End Type="ModeloXCommerce.Persona" Role="Persona" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Usuario" Role="Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="PersonaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Marca">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Articulos" Relationship="ModeloXCommerce.MarcaArticulo" FromRole="Marca" ToRole="Articulo" />
+  </EntityType>
+  <EntityType Name="Rubro">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Articulos" Relationship="ModeloXCommerce.RubroArticulo" FromRole="Rubro" ToRole="Articulo" />
+  </EntityType>
+  <EntityType Name="Cliente" BaseType="ModeloXCommerce.Persona">
+    <Property Name="MontoMaximoCtaCte" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="Reservas" Relationship="ModeloXCommerce.ClienteReserva" FromRole="Cliente" ToRole="Reserva" />
+    <NavigationProperty Name="Comprobantes" Relationship="ModeloXCommerce.ClienteComprobante" FromRole="Cliente" ToRole="Comprobante" />
+    <NavigationProperty Name="FormaPagosCtaCtes" Relationship="ModeloXCommerce.ClienteFormaPagoCtaCte" FromRole="Cliente" ToRole="FormaPagoCtaCte" />
+    <Property Name="SaldoCtaCte" Type="Decimal" Nullable="false" />
+    <Property Name="FechaMaxPagoCtaCte" Type="DateTime" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Articulo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Codigo" Type="String" Nullable="false" MaxLength="100" />
+    <Property Name="CodigoBarra" Type="String" Nullable="false" MaxLength="100" />
+    <Property Name="Abreviatura" Type="String" Nullable="false" MaxLength="20" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="400" />
+    <Property Name="Detalle" Type="String" Nullable="false" />
+    <Property Name="Foto" Type="Binary" Nullable="false" />
+    <Property Name="ActivarLimiteVenta" Type="Boolean" Nullable="false" />
+    <Property Name="LimiteVenta" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="PermiteStockNegativo" Type="Boolean" Nullable="false" />
+    <Property Name="EstaDiscontinuado" Type="Boolean" Nullable="false" />
+    <Property Name="StockMaximo" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="StockMinimo" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="DescuentaStock" Type="Boolean" Nullable="false" DefaultValue="True" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" DefaultValue="False" />
+    <NavigationProperty Name="Marca" Relationship="ModeloXCommerce.MarcaArticulo" FromRole="Articulo" ToRole="Marca" />
+    <Property Name="MarcaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Rubro" Relationship="ModeloXCommerce.RubroArticulo" FromRole="Articulo" ToRole="Rubro" />
+    <Property Name="RubroId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="BajaArticulos" Relationship="ModeloXCommerce.ArticuloBajaArticulo" FromRole="Articulo" ToRole="BajaArticulo" />
+    <NavigationProperty Name="Precios" Relationship="ModeloXCommerce.ArticuloPrecio" FromRole="Articulo" ToRole="Precio" />
+    <Property Name="Stock" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="DetalleComprobantes" Relationship="ModeloXCommerce.ArticuloDetalleComprobante" FromRole="Articulo" ToRole="DetalleComprobante" />
+    <Property Name="Iva" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="MarcaArticulo">
+    <End Type="ModeloXCommerce.Marca" Role="Marca" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Articulo" Role="Articulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marca">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Articulo">
+        <PropertyRef Name="MarcaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RubroArticulo">
+    <End Type="ModeloXCommerce.Rubro" Role="Rubro" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Articulo" Role="Articulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rubro">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Articulo">
+        <PropertyRef Name="RubroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="MotivoBaja">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <NavigationProperty Name="BajaArticulos" Relationship="ModeloXCommerce.MotivoBajaBajaArticulo" FromRole="MotivoBaja" ToRole="BajaArticulo" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BajaArticulo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Cantidad" Type="Int64" Nullable="false" />
+    <Property Name="Observacion" Type="String" Nullable="false" />
+    <NavigationProperty Name="MotivoBaja" Relationship="ModeloXCommerce.MotivoBajaBajaArticulo" FromRole="BajaArticulo" ToRole="MotivoBaja" />
+    <Property Name="MotivoBajaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Articulo" Relationship="ModeloXCommerce.ArticuloBajaArticulo" FromRole="BajaArticulo" ToRole="Articulo" />
+    <Property Name="ArticuloId" Type="Int64" Nullable="false" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="MotivoBajaBajaArticulo">
+    <End Type="ModeloXCommerce.MotivoBaja" Role="MotivoBaja" Multiplicity="1" />
+    <End Type="ModeloXCommerce.BajaArticulo" Role="BajaArticulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MotivoBaja">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BajaArticulo">
+        <PropertyRef Name="MotivoBajaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ArticuloBajaArticulo">
+    <End Type="ModeloXCommerce.Articulo" Role="Articulo" Multiplicity="1" />
+    <End Type="ModeloXCommerce.BajaArticulo" Role="BajaArticulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Articulo">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BajaArticulo">
+        <PropertyRef Name="ArticuloId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Caja">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MontoApertura" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="MontoCierre" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="FechaApertura" Type="DateTime" Nullable="false" />
+    <Property Name="FechaCierre" Type="DateTime" Nullable="true" />
+    <Property Name="MontoSistema" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Diferencia" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="UsuarioApertura" Relationship="ModeloXCommerce.UsuarioCaja" FromRole="Caja" ToRole="Usuario" />
+    <Property Name="UsuarioAperturaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="UsuarioCierre" Relationship="ModeloXCommerce.UsuarioCaja1" FromRole="Caja" ToRole="Usuario" />
+    <Property Name="UsuarioCierreId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="DetalleCajas" Relationship="ModeloXCommerce.CajaDetalleCaja" FromRole="Caja" ToRole="DetalleCaja" />
+    <Property Name="Estado" Type="ModeloXCommerce.EstadoCaja" Nullable="false" />
+    <NavigationProperty Name="Movimientos" Relationship="ModeloXCommerce.CajaMovimiento" FromRole="Caja" ToRole="Movimiento" />
+  </EntityType>
+  <EntityType Name="DetalleCaja">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Caja" Relationship="ModeloXCommerce.CajaDetalleCaja" FromRole="DetalleCaja" ToRole="Caja" />
+    <Property Name="CajaId" Type="Int64" Nullable="false" />
+    <Property Name="Monto" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="TipoPago" Type="ModeloXCommerce.TipoPago" Nullable="false" />
+  </EntityType>
+  <Association Name="UsuarioCaja">
+    <End Type="ModeloXCommerce.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Caja" Role="Caja" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Caja">
+        <PropertyRef Name="UsuarioAperturaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UsuarioCaja1">
+    <End Type="ModeloXCommerce.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Caja" Role="Caja" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Caja">
+        <PropertyRef Name="UsuarioCierreId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CajaDetalleCaja">
+    <End Type="ModeloXCommerce.Caja" Role="Caja" Multiplicity="1" />
+    <End Type="ModeloXCommerce.DetalleCaja" Role="DetalleCaja" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Caja">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleCaja">
+        <PropertyRef Name="CajaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EnumType Name="TipoPago">
+    <Member Name="Efectivo" Value="1" />
+    <Member Name="Tarjeta" Value="2" />
+    <Member Name="CtaCte" Value="3" />
+  </EnumType>
+  <EntityType Name="ListaPrecio">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Rentabilidad" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Precios" Relationship="ModeloXCommerce.ListaPrecioPrecio" FromRole="ListaPrecio" ToRole="Precio" />
+    <NavigationProperty Name="Salon" Relationship="ModeloXCommerce.ListaPrecioSalon" FromRole="ListaPrecio" ToRole="Salon" />
+  </EntityType>
+  <EntityType Name="Precio">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PrecioPublico" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="FechaActualizacion" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="ListaPrecio" Relationship="ModeloXCommerce.ListaPrecioPrecio" FromRole="Precio" ToRole="ListaPrecio" />
+    <Property Name="ListaPrecioId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Articulo" Relationship="ModeloXCommerce.ArticuloPrecio" FromRole="Precio" ToRole="Articulo" />
+    <Property Name="ArticuloId" Type="Int64" Nullable="false" />
+    <Property Name="ActivarHoraVenta" Type="Boolean" Nullable="false" />
+    <Property Name="HoraVenta" Type="DateTime" Nullable="false" />
+    <Property Name="PrecioCosto" Type="Decimal" Nullable="false" />
+  </EntityType>
+  <Association Name="ListaPrecioPrecio">
+    <End Type="ModeloXCommerce.ListaPrecio" Role="ListaPrecio" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Precio" Role="Precio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ListaPrecio">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Precio">
+        <PropertyRef Name="ListaPrecioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ArticuloPrecio">
+    <End Type="ModeloXCommerce.Articulo" Role="Articulo" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Precio" Role="Precio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Articulo">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Precio">
+        <PropertyRef Name="ArticuloId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Empresa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CondicionIvaId" Type="Int64" Nullable="false" />
+    <Property Name="RazonSocial" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="NombreFantasia" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Cuit" Type="String" Nullable="false" MaxLength="11" />
+    <Property Name="Telefono" Type="String" Nullable="false" MaxLength="25" />
+    <Property Name="Mail" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Sucursal" Type="String" Nullable="false" MaxLength="10" />
+    <Property Name="Logo" Type="Binary" Nullable="false" />
+    <NavigationProperty Name="Direccion" Relationship="ModeloXCommerce.EmpresaDireccion" FromRole="Empresa" ToRole="Direccion" />
+    <Property Name="CondicionIvaId1" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="CondicionIva" Relationship="ModeloXCommerce.CondicionIvaEmpresa" FromRole="Empresa" ToRole="CondicionIva" />
+    <Property Name="CondicionIvaId2" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CondicionIva">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="EstaELiminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Empresa" Relationship="ModeloXCommerce.CondicionIvaEmpresa" FromRole="CondicionIva" ToRole="Empresa" />
+    <Property Name="ProveedorId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Proveedor" Relationship="ModeloXCommerce.CondicionIvaProveedor" FromRole="CondicionIva" ToRole="Proveedor" />
+  </EntityType>
+  <Association Name="EmpresaDireccion">
+    <End Type="ModeloXCommerce.Empresa" Role="Empresa" Multiplicity="0..1" />
+    <End Type="ModeloXCommerce.Direccion" Role="Direccion" Multiplicity="1" />
+  </Association>
+  <EntityType Name="Salon">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Mesas" Relationship="ModeloXCommerce.SalonMesa" FromRole="Salon" ToRole="Mesa" />
+    <NavigationProperty Name="ListaPrecio" Relationship="ModeloXCommerce.ListaPrecioSalon" FromRole="Salon" ToRole="ListaPrecio" />
+    <Property Name="ListaPrecioId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Mesa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Numero" Type="Int32" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Salon" Relationship="ModeloXCommerce.SalonMesa" FromRole="Mesa" ToRole="Salon" />
+    <Property Name="SalonId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Reservas" Relationship="ModeloXCommerce.MesaReserva" FromRole="Mesa" ToRole="Reserva" />
+    <Property Name="EstadoMesa" Type="ModeloXCommerce.EstadoMesa" Nullable="false" />
+    <NavigationProperty Name="ComprobantesSalones" Relationship="ModeloXCommerce.MesaComprobanteSalon" FromRole="Mesa" ToRole="ComprobanteSalon" />
+  </EntityType>
+  <Association Name="SalonMesa">
+    <End Type="ModeloXCommerce.Salon" Role="Salon" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Mesa" Role="Mesa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Salon">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Mesa">
+        <PropertyRef Name="SalonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Senia" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="EstadoReserva" Type="ModeloXCommerce.EstadoReserva" Nullable="false" />
+    <NavigationProperty Name="Mesa" Relationship="ModeloXCommerce.MesaReserva" FromRole="Reserva" ToRole="Mesa" />
+    <Property Name="MesaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Cliente" Relationship="ModeloXCommerce.ClienteReserva" FromRole="Reserva" ToRole="Cliente" />
+    <Property Name="ClienteId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="ModeloXCommerce.UsuarioReserva" FromRole="Reserva" ToRole="Usuario" />
+    <Property Name="UsuarioId" Type="Int64" Nullable="false" />
+    <Property Name="EstaElimido" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="MotivoReserva" Relationship="ModeloXCommerce.MotivoReservaReserva" FromRole="Reserva" ToRole="MotivoReserva" />
+    <Property Name="MotivoReservaId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EnumType Name="EstadoReserva">
+    <Member Name="Confirmada" Value="1" />
+    <Member Name="NoConfirmada" Value="2" />
+    <Member Name="Cancelada" Value="3" />
+  </EnumType>
+  <Association Name="MesaReserva">
+    <End Type="ModeloXCommerce.Mesa" Role="Mesa" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Reserva" Role="Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mesa">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="MesaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteReserva">
+    <End Type="ModeloXCommerce.Cliente" Role="Cliente" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Reserva" Role="Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UsuarioReserva">
+    <End Type="ModeloXCommerce.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Reserva" Role="Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="UsuarioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Comprobante" Abstract="true">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Numero" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="SubTotal" Type="Decimal" Nullable="false" />
+    <Property Name="Descuento" Type="Decimal" Nullable="false" />
+    <Property Name="Total" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="ModeloXCommerce.UsuarioComprobante" FromRole="Comprobante" ToRole="Usuario" />
+    <Property Name="UsuarioId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Cliente" Relationship="ModeloXCommerce.ClienteComprobante" FromRole="Comprobante" ToRole="Cliente" />
+    <Property Name="ClienteId" Type="Int64" Nullable="false" />
+    <Property Name="TipoComprobante" Type="ModeloXCommerce.TipoComprobante" Nullable="false" />
+    <NavigationProperty Name="DetalleComprobantes" Relationship="ModeloXCommerce.ComprobanteDetalleComprobante" FromRole="Comprobante" ToRole="DetalleComprobante" />
+    <NavigationProperty Name="Movimientos" Relationship="ModeloXCommerce.ComprobanteMovimiento" FromRole="Comprobante" ToRole="Movimiento" />
+    <NavigationProperty Name="FormaPagos" Relationship="ModeloXCommerce.ComprobanteFormaPago" FromRole="Comprobante" ToRole="FormaPago" />
+    <Property Name="ReservaId" Type="Int64" Nullable="true" />
+    <Property Name="MotivoReservaId" Type="Int64" Nullable="true" />
+  </EntityType>
+  <Association Name="UsuarioComprobante">
+    <End Type="ModeloXCommerce.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Comprobante" Role="Comprobante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Comprobante">
+        <PropertyRef Name="UsuarioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteComprobante">
+    <End Type="ModeloXCommerce.Cliente" Role="Cliente" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Comprobante" Role="Comprobante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Comprobante">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EnumType Name="TipoComprobante">
+    <Member Name="A" Value="1" />
+    <Member Name="B" Value="2" />
+    <Member Name="C" Value="3" />
+    <Member Name="X" Value="4" />
+  </EnumType>
+  <EntityType Name="ComprobanteDelivery" BaseType="ModeloXCommerce.Comprobante">
+    <Property Name="EstadoDelivery" Type="ModeloXCommerce.EstadoComprobanteSalon" Nullable="false" />
+    <Property Name="CadeteId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ComprobanteFactura" BaseType="ModeloXCommerce.Comprobante" />
+  <EntityType Name="ComprobanteSalon" BaseType="ModeloXCommerce.Comprobante">
+    <Property Name="Comensal" Type="String" Nullable="false" />
+    <NavigationProperty Name="Mesa" Relationship="ModeloXCommerce.MesaComprobanteSalon" FromRole="ComprobanteSalon" ToRole="Mesa" />
+    <Property Name="MesaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Mozo" Relationship="ModeloXCommerce.EmpleadoComprobanteSalon" FromRole="ComprobanteSalon" ToRole="Empleado" />
+    <Property Name="MozoId" Type="Int64" Nullable="true" />
+    <Property Name="EstadoSalon" Type="ModeloXCommerce.EstadoComprobanteSalon" Nullable="false" />
+  </EntityType>
+  <EnumType Name="EstadoMesa">
+    <Member Name="Cerrada" Value="1" />
+    <Member Name="Abierta" Value="2" />
+    <Member Name="FueraServicio" Value="3" />
+    <Member Name="Reservada" Value="4" />
+  </EnumType>
+  <EntityType Name="DetalleComprobante">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Comprobante" Relationship="ModeloXCommerce.ComprobanteDetalleComprobante" FromRole="DetalleComprobante" ToRole="Comprobante" />
+    <Property Name="ComprobanteId" Type="Int64" Nullable="false" />
+    <Property Name="Codigo" Type="String" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="PrecioUnitario" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Cantidad" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="SubTotal" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="Articulo" Relationship="ModeloXCommerce.ArticuloDetalleComprobante" FromRole="DetalleComprobante" ToRole="Articulo" />
+    <Property Name="ArticuloId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <Association Name="ComprobanteDetalleComprobante">
+    <End Type="ModeloXCommerce.Comprobante" Role="Comprobante" Multiplicity="1" />
+    <End Type="ModeloXCommerce.DetalleComprobante" Role="DetalleComprobante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleComprobante">
+        <PropertyRef Name="ComprobanteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ArticuloDetalleComprobante">
+    <End Type="ModeloXCommerce.Articulo" Role="Articulo" Multiplicity="1" />
+    <End Type="ModeloXCommerce.DetalleComprobante" Role="DetalleComprobante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Articulo">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleComprobante">
+        <PropertyRef Name="ArticuloId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Movimiento">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Comprobante" Relationship="ModeloXCommerce.ComprobanteMovimiento" FromRole="Movimiento" ToRole="Comprobante" />
+    <Property Name="ComprobanteId" Type="Int64" Nullable="false" />
+    <Property Name="TipoMovimento" Type="ModeloXCommerce.TipoMovimiento" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="ModeloXCommerce.UsuarioMovimiento" FromRole="Movimiento" ToRole="Usuario" />
+    <Property Name="UsuarioId" Type="Int64" Nullable="false" />
+    <Property Name="Monto" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="400" />
+    <NavigationProperty Name="Caja" Relationship="ModeloXCommerce.CajaMovimiento" FromRole="Movimiento" ToRole="Caja" />
+    <Property Name="CajaId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <Association Name="ComprobanteMovimiento">
+    <End Type="ModeloXCommerce.Comprobante" Role="Comprobante" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Movimiento" Role="Movimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="ComprobanteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EnumType Name="TipoMovimiento">
+    <Member Name="Ingreso" Value="1" />
+    <Member Name="Egreso" Value="-1" />
+  </EnumType>
+  <Association Name="UsuarioMovimiento">
+    <End Type="ModeloXCommerce.Usuario" Multiplicity="1" Role="Usuario" />
+    <End Type="ModeloXCommerce.Movimiento" Multiplicity="*" Role="Movimiento" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="UsuarioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="FormaPago">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Comprobante" Relationship="ModeloXCommerce.ComprobanteFormaPago" FromRole="FormaPago" ToRole="Comprobante" />
+    <Property Name="ComprobanteId" Type="Int64" Nullable="false" />
+    <Property Name="TipoFormaPago" Type="ModeloXCommerce.TipoFormaPago" Nullable="false" />
+    <Property Name="Monto" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+  </EntityType>
+  <Association Name="ComprobanteFormaPago">
+    <End Type="ModeloXCommerce.Comprobante" Role="Comprobante" Multiplicity="1" />
+    <End Type="ModeloXCommerce.FormaPago" Role="FormaPago" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="FormaPago">
+        <PropertyRef Name="ComprobanteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EnumType Name="TipoFormaPago">
+    <Member Name="Efectivo" Value="1" />
+    <Member Name="Cheque" Value="2" />
+    <Member Name="Tarjeta" Value="3" />
+    <Member Name="CuentaCorriente" Value="4" />
+  </EnumType>
+  <EntityType Name="Banco">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <NavigationProperty Name="Cheques" Relationship="ModeloXCommerce.BancoCheque" FromRole="Banco" ToRole="Cheque" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FormaPagoCheque" BaseType="ModeloXCommerce.FormaPago">
+    <NavigationProperty Name="Banco" Relationship="ModeloXCommerce.BancoCheque" FromRole="Cheque" ToRole="Banco" />
+    <Property Name="BancoId" Type="Int64" Nullable="false" />
+    <Property Name="Numero" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="EnteEmisor" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="FechaEmision" Type="DateTime" Nullable="false" />
+    <Property Name="Dias" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="BancoCheque">
+    <End Type="ModeloXCommerce.Banco" Role="Banco" Multiplicity="1" />
+    <End Type="ModeloXCommerce.FormaPagoCheque" Role="Cheque" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Banco">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cheque">
+        <PropertyRef Name="BancoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MesaComprobanteSalon">
+    <End Type="ModeloXCommerce.Mesa" Role="Mesa" Multiplicity="1" />
+    <End Type="ModeloXCommerce.ComprobanteSalon" Role="ComprobanteSalon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mesa">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ComprobanteSalon">
+        <PropertyRef Name="MesaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="EmpleadoComprobanteSalon">
+    <End Type="ModeloXCommerce.Empleado" Role="Empleado" Multiplicity="0..1" />
+    <End Type="ModeloXCommerce.ComprobanteSalon" Role="ComprobanteSalon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ComprobanteSalon">
+        <PropertyRef Name="MozoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="FormaPagoCtaCte" BaseType="ModeloXCommerce.FormaPago">
+    <NavigationProperty Name="Cliente" Relationship="ModeloXCommerce.ClienteFormaPagoCtaCte" FromRole="FormaPagoCtaCte" ToRole="Cliente" />
+    <Property Name="ClienteId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <Association Name="ClienteFormaPagoCtaCte">
+    <End Type="ModeloXCommerce.Cliente" Role="Cliente" Multiplicity="1" />
+    <End Type="ModeloXCommerce.FormaPagoCtaCte" Role="FormaPagoCtaCte" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="FormaPagoCtaCte">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="FormaPagoEfectivo" BaseType="ModeloXCommerce.FormaPago" />
+  <EntityType Name="FormaPagoTarjeta" BaseType="ModeloXCommerce.FormaPago">
+    <NavigationProperty Name="PlanTarjeta" Relationship="ModeloXCommerce.PlanTarjetaFormaPagoTarjeta" FromRole="FormaPagoTarjeta" ToRole="PlanTarjeta" />
+    <Property Name="PlanTarjetaId" Type="Int64" Nullable="false" />
+    <Property Name="Cupon" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="Numero" Type="String" Nullable="false" MaxLength="250" />
+    <Property Name="NumeroTarjeta" Type="String" Nullable="false" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Tarjeta">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+    <NavigationProperty Name="PlanesTarjetas" Relationship="ModeloXCommerce.TarjetaPlanTarjeta" FromRole="Tarjeta" ToRole="PlanTarjeta" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PlanTarjeta">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="Alicuota" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="Tarjeta" Relationship="ModeloXCommerce.TarjetaPlanTarjeta" FromRole="PlanTarjeta" ToRole="Tarjeta" />
+    <Property Name="TarjetaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="FormaPagosTarjetas" Relationship="ModeloXCommerce.PlanTarjetaFormaPagoTarjeta" FromRole="PlanTarjeta" ToRole="FormaPagoTarjeta" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="TarjetaPlanTarjeta">
+    <End Type="ModeloXCommerce.Tarjeta" Role="Tarjeta" Multiplicity="1" />
+    <End Type="ModeloXCommerce.PlanTarjeta" Role="PlanTarjeta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tarjeta">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PlanTarjeta">
+        <PropertyRef Name="TarjetaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PlanTarjetaFormaPagoTarjeta">
+    <End Type="ModeloXCommerce.PlanTarjeta" Role="PlanTarjeta" Multiplicity="1" />
+    <End Type="ModeloXCommerce.FormaPagoTarjeta" Role="FormaPagoTarjeta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PlanTarjeta">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="FormaPagoTarjeta">
+        <PropertyRef Name="PlanTarjetaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Proveedor">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RazonSocial" Type="String" Nullable="false" />
+    <Property Name="Telefono" Type="String" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <Property Name="Contacto" Type="String" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="CondicionIva" Relationship="ModeloXCommerce.CondicionIvaProveedor" FromRole="Proveedor" ToRole="CondicionIva" />
+    <Property Name="CondicionIvaId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="ComprobanteCompra" Relationship="ModeloXCommerce.ProveedorComprobanteCompra" FromRole="Proveedor" ToRole="ComprobanteCompra" />
+  </EntityType>
+  <EntityType Name="ComprobanteCompra" BaseType="ModeloXCommerce.Comprobante">
+    <NavigationProperty Name="Proveedor" Relationship="ModeloXCommerce.ProveedorComprobanteCompra" FromRole="ComprobanteCompra" ToRole="Proveedor" />
+    <Property Name="ProveedorId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EnumType Name="EstadoComprobanteSalon">
+    <Member Name="EnProceso" Value="1" />
+    <Member Name="Facturado" Value="2" />
+  </EnumType>
+  <Association Name="ListaPrecioSalon">
+    <End Type="ModeloXCommerce.ListaPrecio" Role="ListaPrecio" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Salon" Role="Salon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ListaPrecio">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salon">
+        <PropertyRef Name="ListaPrecioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CondicionIvaEmpresa">
+    <End Type="ModeloXCommerce.CondicionIva" Role="CondicionIva" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Empresa" Role="Empresa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CondicionIva">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Empresa">
+        <PropertyRef Name="CondicionIvaId2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="MotivoReserva">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Reserva" Relationship="ModeloXCommerce.MotivoReservaReserva" FromRole="MotivoReserva" ToRole="Reserva" />
+  </EntityType>
+  <Association Name="MotivoReservaReserva">
+    <End Type="ModeloXCommerce.MotivoReserva" Role="MotivoReserva" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Reserva" Role="Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MotivoReserva">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="MotivoReservaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TipoEmpleado">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Empleado" Relationship="ModeloXCommerce.TipoEmpleadoEmpleado" FromRole="TipoEmpleado" ToRole="Empleado" />
+  </EntityType>
+  <Association Name="TipoEmpleadoEmpleado">
+    <End Type="ModeloXCommerce.TipoEmpleado" Role="TipoEmpleado" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Empleado" Role="Empleado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoEmpleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Empleado">
+        <PropertyRef Name="TipoEmpleadoId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CajaMovimiento">
+    <End Type="ModeloXCommerce.Caja" Role="Caja" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Movimiento" Role="Movimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Caja">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="CajaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CondicionIvaProveedor">
+    <End Type="ModeloXCommerce.CondicionIva" Role="CondicionIva" Multiplicity="1" />
+    <End Type="ModeloXCommerce.Proveedor" Role="Proveedor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CondicionIva">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Proveedor">
+        <PropertyRef Name="CondicionIvaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProveedorComprobanteCompra">
+    <End Type="ModeloXCommerce.Proveedor" Role="Proveedor" Multiplicity="1" />
+    <End Type="ModeloXCommerce.ComprobanteCompra" Role="ComprobanteCompra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proveedor">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ComprobanteCompra">
+        <PropertyRef Name="ProveedorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EnumType Name="EstadoCaja">
+    <Member Name="Abierta" Value="1" />
+    <Member Name="Cerrada" Value="2" />
+  </EnumType>
+  <EntityType Name="ComprobanteCtaCte" BaseType="ModeloXCommerce.Comprobante" />
+</Schema>

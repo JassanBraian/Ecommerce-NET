@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="472937948b314c839f9a0ca8fbcdc11c" Name="Diagram1" ZoomLevel="79" >
+        <EntityTypeShape EntityType="ModeloXCommerce.Persona" Width="2.25" PointX="0.75" PointY="0.5" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Direccion" Width="1.5" PointX="3.875" PointY="0.5" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Localidad" Width="1.5" PointX="6.625" PointY="0.5" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Provincia" Width="1.5" PointX="9.5" PointY="0.5" />
+        <AssociationConnector Association="ModeloXCommerce.ProvinciaLocalidad" />
+        <AssociationConnector Association="ModeloXCommerce.LocalidadDireccion" />
+        <AssociationConnector Association="ModeloXCommerce.PersonaDireccion" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Empleado" Width="1.5" PointX="6.75" PointY="3.5" />
+        <InheritanceConnector EntityType="ModeloXCommerce.Empleado" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Usuario" Width="1.5" PointX="0.625" PointY="4.875" />
+        <AssociationConnector Association="ModeloXCommerce.PersonaUsuario" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Marca" Width="1.5" PointX="9.5" PointY="2.75" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Rubro" Width="1.5" PointX="9.5" PointY="4.875" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Cliente" Width="2" PointX="3.75" PointY="4.75" />
+        <InheritanceConnector EntityType="ModeloXCommerce.Cliente" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Articulo" Width="2" PointX="12.375" PointY="1.625" />
+        <AssociationConnector Association="ModeloXCommerce.MarcaArticulo" />
+        <AssociationConnector Association="ModeloXCommerce.RubroArticulo" />
+        <EntityTypeShape EntityType="ModeloXCommerce.MotivoBaja" Width="1.5" PointX="15.25" PointY="0.875" />
+        <EntityTypeShape EntityType="ModeloXCommerce.BajaArticulo" Width="1.5" PointX="15.375" PointY="3.25" />
+        <AssociationConnector Association="ModeloXCommerce.MotivoBajaBajaArticulo" />
+        <AssociationConnector Association="ModeloXCommerce.ArticuloBajaArticulo" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Caja" Width="2.375" PointX="17.875" PointY="0.875" />
+        <EntityTypeShape EntityType="ModeloXCommerce.DetalleCaja" Width="1.5" PointX="21.25" PointY="0.875" />
+        <AssociationConnector Association="ModeloXCommerce.UsuarioCaja" />
+        <AssociationConnector Association="ModeloXCommerce.UsuarioCaja1" />
+        <AssociationConnector Association="ModeloXCommerce.CajaDetalleCaja" />
+        <EntityTypeShape EntityType="ModeloXCommerce.ListaPrecio" Width="1.5" PointX="24.125" PointY="0.875" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Precio" Width="2.125" PointX="21.25" PointY="4.375" />
+        <AssociationConnector Association="ModeloXCommerce.ListaPrecioPrecio" />
+        <AssociationConnector Association="ModeloXCommerce.ArticuloPrecio" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Empresa" Width="1.5" PointX="27.25" PointY="2" />
+        <EntityTypeShape EntityType="ModeloXCommerce.CondicionIva" Width="1.5" PointX="27.5" PointY="10.625" />
+        <AssociationConnector Association="ModeloXCommerce.EmpresaDireccion" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Salon" Width="1.5" PointX="30.375" PointY="1.125" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Mesa" Width="1.5" PointX="30.375" PointY="3.75" />
+        <AssociationConnector Association="ModeloXCommerce.SalonMesa" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Reserva" Width="1.5" PointX="24.375" PointY="10.75" />
+        <AssociationConnector Association="ModeloXCommerce.MesaReserva" />
+        <AssociationConnector Association="ModeloXCommerce.ClienteReserva" />
+        <AssociationConnector Association="ModeloXCommerce.UsuarioReserva" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Comprobante" Width="2" PointX="32.75" PointY="1.125" />
+        <AssociationConnector Association="ModeloXCommerce.UsuarioComprobante" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="ModeloXCommerce.ClienteComprobante" ManuallyRouted="false" >
+        </AssociationConnector>
+        <EntityTypeShape EntityType="ModeloXCommerce.ComprobanteDelivery" Width="2.125" PointX="35.625" PointY="3.25" />
+        <InheritanceConnector EntityType="ModeloXCommerce.ComprobanteDelivery" />
+        <EntityTypeShape EntityType="ModeloXCommerce.ComprobanteFactura" Width="1.875" PointX="35.25" PointY="5.25" />
+        <EntityTypeShape EntityType="ModeloXCommerce.ComprobanteSalon" Width="2" PointX="38.375" PointY="5.875" />
+        <InheritanceConnector EntityType="ModeloXCommerce.ComprobanteSalon" />
+        <EntityTypeShape EntityType="ModeloXCommerce.DetalleComprobante" Width="1.875" PointX="35.875" PointY="6.875" />
+        <AssociationConnector Association="ModeloXCommerce.ComprobanteDetalleComprobante" />
+        <AssociationConnector Association="ModeloXCommerce.ArticuloDetalleComprobante" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Movimiento" Width="1.875" PointX="38.625" PointY="1.375" />
+        <AssociationConnector Association="ModeloXCommerce.ComprobanteMovimiento" />
+        <AssociationConnector Association="ModeloXCommerce.UsuarioMovimiento" />
+        <EntityTypeShape EntityType="ModeloXCommerce.FormaPago" Width="1.5" PointX="41.25" PointY="4.75" />
+        <AssociationConnector Association="ModeloXCommerce.ComprobanteFormaPago" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Banco" Width="1.5" PointX="44.25" PointY="1.375" />
+        <EntityTypeShape EntityType="ModeloXCommerce.FormaPagoCheque" Width="2.375" PointX="45" PointY="4.125" />
+        <InheritanceConnector EntityType="ModeloXCommerce.FormaPagoCheque" />
+        <AssociationConnector Association="ModeloXCommerce.BancoCheque" />
+        <AssociationConnector Association="ModeloXCommerce.MesaComprobanteSalon" />
+        <AssociationConnector Association="ModeloXCommerce.EmpleadoComprobanteSalon" />
+        <EntityTypeShape EntityType="ModeloXCommerce.FormaPagoCtaCte" Width="1.875" PointX="40.625" PointY="8.75" />
+        <InheritanceConnector EntityType="ModeloXCommerce.FormaPagoCtaCte" />
+        <AssociationConnector Association="ModeloXCommerce.ClienteFormaPagoCtaCte" />
+        <EntityTypeShape EntityType="ModeloXCommerce.FormaPagoEfectivo" Width="2.125" PointX="44.625" PointY="10.5" />
+        <InheritanceConnector EntityType="ModeloXCommerce.FormaPagoEfectivo" />
+        <EntityTypeShape EntityType="ModeloXCommerce.FormaPagoTarjeta" Width="2.375" PointX="50.125" PointY="6" />
+        <InheritanceConnector EntityType="ModeloXCommerce.FormaPagoTarjeta" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Tarjeta" Width="1.5" PointX="49" PointY="9.5" />
+        <EntityTypeShape EntityType="ModeloXCommerce.PlanTarjeta" Width="1.5" PointX="52.125" PointY="9.625" />
+        <AssociationConnector Association="ModeloXCommerce.TarjetaPlanTarjeta" />
+        <AssociationConnector Association="ModeloXCommerce.PlanTarjetaFormaPagoTarjeta" />
+        <EntityTypeShape EntityType="ModeloXCommerce.Proveedor" Width="1.5" PointX="47.75" PointY="1.625" />
+        <EntityTypeShape EntityType="ModeloXCommerce.ComprobanteCompra" Width="2.375" PointX="32.875" PointY="14.875" />
+        <AssociationConnector Association="ModeloXCommerce.ListaPrecioSalon" />
+        <AssociationConnector Association="ModeloXCommerce.CondicionIvaEmpresa" />
+        <EntityTypeShape EntityType="ModeloXCommerce.MotivoReserva" Width="1.5" PointX="21.5" PointY="10.375" />
+        <AssociationConnector Association="ModeloXCommerce.MotivoReservaReserva" />
+        <EntityTypeShape EntityType="ModeloXCommerce.TipoEmpleado" Width="1.5" PointX="7.125" PointY="8" />
+        <AssociationConnector Association="ModeloXCommerce.TipoEmpleadoEmpleado" />
+        <AssociationConnector Association="ModeloXCommerce.CajaMovimiento" />
+        <AssociationConnector Association="ModeloXCommerce.CondicionIvaProveedor" />
+        <AssociationConnector Association="ModeloXCommerce.ProveedorComprobanteCompra" />
+        <InheritanceConnector EntityType="ModeloXCommerce.ComprobanteCompra" />
+        <InheritanceConnector EntityType="ModeloXCommerce.ComprobanteFactura" />
+        <EntityTypeShape EntityType="ModeloXCommerce.ComprobanteCtaCte" Width="2.375" PointX="35.375" PointY="1.625" />
+        <InheritanceConnector EntityType="ModeloXCommerce.ComprobanteCtaCte" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

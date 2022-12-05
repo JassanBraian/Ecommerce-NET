@@ -1,0 +1,149 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\braia\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb

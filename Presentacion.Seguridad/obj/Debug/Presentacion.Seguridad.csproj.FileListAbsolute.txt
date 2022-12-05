@@ -1,0 +1,872 @@
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 2\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\braia\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Braian\source\repos\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\LABORATORIO 2\XCommerce Final 9-9-2019\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce\XCommerce\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommerce\XCommerce FinalT01\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\xcommer (1)\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\xcommer  13-11-2019\Xcommer Funcionado 31-10-2019\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\ZCopiasAnteriores\XCommerce Final 21\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+D:\Facultad JAVIER\JAVIER\LABORATORIO 2\LABORATORIO 2\XCommerce COPIAS\AA Versiones Organizado\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 61\XCommerce Final 58\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 71\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 75\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 76\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\BraianPc\Desktop\XCommerce Final 77\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 109\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 123\XCommerce Final 111\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 125\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final 135\XCommerce Final 133\XCommerce Final 128\XCommerce Final\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\Laboratorio\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Sanchez Cuin\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\Javier\Desktop\laboratorio\XCommerce Final 145\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\bin\Debug\EntityFramework.xml
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csprojAssemblyReference.cache
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Login.resources
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Properties.Resources.resources
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.Usuarios._00009_Usuarios.resources
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.GenerateResource.cache
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.csproj.CopyComplete
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.dll
+C:\Users\braia\Desktop\XCommerce Final 154\XCommerce Final\Presentacion.Seguridad\obj\Debug\Presentacion.Seguridad.pdb
